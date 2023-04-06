@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaish Puri!
-- 👀 I’m interested in all things web3 related and data analysis
+- 👀 I’m interested in all things crypto related and data analysis
 - 🌱 I’m currently learning rust and solidity
 - 💞️ I’m looking to collaborate on web3 projects 
 - 📫 How to reach me: Twitter @puriVaish
